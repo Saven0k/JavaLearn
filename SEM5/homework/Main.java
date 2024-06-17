@@ -20,7 +20,7 @@ public class Main {
         String sourceDirectory = path;
 
         // Директория для резервной копии
-        String backupDirectory = "./backup";
+        String backupDirectory = "D:\\AllPrograming\\IdeaProjects\\SEM5\\backup";
 
         // Создать директорию для резервной копии
         Path backupDirPath = Paths.get(backupDirectory);
